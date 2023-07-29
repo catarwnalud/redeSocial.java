@@ -1,7 +1,7 @@
 #
 # Trabalho Prático - LPOO
   
-                                                    redeSocial.java
+                                                  redeSocial.java
 
  _Por: {catarina.ludmila, maria_anjos}_
 
